@@ -25,17 +25,17 @@ public class choice extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-/*
+
         Button event = (Button) findViewById(R.id.event);//イベントを押した時
         event.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
 
-                Intent intent = new Intent(getApplication(), activity_event.class);
+                Intent intent = new Intent(getApplication(), Restran.class);
                 startActivity(intent);
             }
-        });*/
+        });
 
     }
 }

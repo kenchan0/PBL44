@@ -40,6 +40,19 @@
         </activity>
         <activity android:name=".choice" />
         <activity android:name=".sightseeing" />
+        <activity android:name=".Restran" />
+        <activity android:name=".Orion" />
+        <activity android:name=".Cache" />
+        <activity android:name=".Denden" />
+        <activity android:name=".Hanadaikon" />
+        <activity android:name=".Hanamizuki" />
+        <activity android:name=".Hananoya" />
+        <activity android:name=".Itamesi" />
+        <activity android:name=".Marutetu" />
+        <activity android:name=".Sichu" />
+        <activity android:name=".Syokusoueno" />
+        <activity android:name=".Torattoria" />
+        <activity android:name=".Usagi" />
         <activity android:name=".countrypark" />
         <activity
             android:name=".countryparkmap"
