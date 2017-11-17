@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PBL44</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_countryparkmap">Map</string>
+    <string name="title_activity_yuparesumap">Map</string>
+    <string name="title_activity_bentenyamamap">Map</string>
+    <string name="title_activity_kosinoenmap">Map</string>
+    <string name="title_activity_takabasiroatomap">Map</string>
+    <string name="title_activity_myosenzimap">Map</string>
+    <string name="title_activity_hutagomap">Map</string>
+    <string name="title_activity_takabahiyosimap">Map</string>
+    <string name="title_activity_vivremap">Map</string>
+</resources>
